@@ -10,6 +10,7 @@ turtle.bgcolor("black")
 colors = ["red", "blue", "green", "yellow", "purple", "orange"]
 
 # Create spiral pattern with 100 line segments
+
 '''
 for i in range(100):
     # Pick random color from the palette
